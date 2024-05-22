@@ -126,3 +126,4 @@ Set up CI/CD using a tool of your choice, preferably GitHub Actions.
 - Code clarity / structure
 - Comments / documentation where necessary
 - CSS styling for bonus points
+# full-stack-test
